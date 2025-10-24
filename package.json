@@ -2,7 +2,7 @@
   "name": "hospital-chat-widget",
   "version": "1.0.0",
   "description": "Floating chat widget for Dr. Rameshwar's clinic with n8n and Firebase integration",
-  "homepage": "https://sonu0421.github.io/appointment-ai-widget",
+  "homepage": "https://ledawai-ai-development.github.io/Appointment-Booking-Bot",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
