@@ -43,7 +43,7 @@ npm start
 ### Option 2: Direct Integration
 ```html
 <!-- Add to any website -->
-<script src="https://github.com/sonu0421/appointment-ai-widget/embed.js"></script>
+<script src="https://ledawai-ai-development.github.io/Appointment-Booking-Bot/embed.js"></script>
 ```
 
 ## 🚀 Quick Start
@@ -107,7 +107,7 @@ Perfect for any website - just add one script tag!
     <!-- Your website content -->
     
     <!-- Chat Widget -->
-    <script src="https://github.com/sonu0421/appointment-ai-widget/embed.js"></script>
+    <script src="https://ledawai-ai-development.github.io/Appointment-Booking-Bot/embed.js"></script>
 </body>
 </html>
 ```
@@ -205,7 +205,7 @@ User/
 2. Go to repository Settings
 3. Scroll to Pages section
 4. Select source branch
-5. Your site will be live at `https://username.github.io/appointment-ai-widget`
+5. Your site will be live at `https://username.github.io/repo-name`
 
 ### Netlify
 1. Connect your GitHub repository
@@ -267,9 +267,7 @@ npm run eject      # Eject from Create React App
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/sonu0421/appointment-ai-widget/issues)
-- **Documentation**: [Integration Guide](INTEGRATION_GUIDE.md)
-- **Email**: sonu.kmr102002@gmail.com
+For issues and questions, please check the troubleshooting section or create an issue in the repository.
 
 ## 🤝 Contributing
 
@@ -281,7 +279,7 @@ npm run eject      # Eject from Create React App
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md) file for details.
+This project is licensed under the [MIT License](./LICENSE) © 2025 [LEDAWAI HEALTHTECH PVT. LTD.](https://github.com/ledawai-ai-development)
 
 ## 🙏 Acknowledgments
 
@@ -289,16 +287,3 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE.md)
 - Firebase for real-time database
 - n8n for workflow automation
 - Razorpay for payment integration
-
-## 📊 Project Stats 
-
-![GitHub stars](https://img.shields.io/github/stars/sonu0421/appointment-ai-widget)
-![GitHub forks](https://img.shields.io/github/forks/sonu0421/appointment-ai-widget)
-![GitHub issues](https://img.shields.io/github/issues/sonu0421/appointment-ai-widget)
-![GitHub last commit](https://img.shields.io/github/last-commit/sonu0421/appointment-ai-widget)
-
----
-
-<div align="center">
-  <strong>Made with ❤️ by Sonu Kumar</strong>
-</div>
